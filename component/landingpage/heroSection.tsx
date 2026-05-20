@@ -1,6 +1,6 @@
 export default function HeroSection() {
   return (
-    <div className="min-h-screen flex flex-col items-center justify-center px-4 text-center">
+    <div className="min-h-screen flex flex-col items-center justify-center px-4 text-center pt-20">
       <div className="max-w-3xl mb-8">
         <h1 className="text-6xl font-bold mb-4">
           Accelerate Your Career with DevPrep AI
