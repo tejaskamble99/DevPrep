@@ -11,7 +11,7 @@ export default function HeroSection() {
         </p>
       </div>
       <div className="flex  gap-4">
-        <button className="bg-purple-700 text-white font-medium py-3 px-6  rounded-lg hover:bg-purple-800transition duration-200">
+        <button className="bg-purple-700 text-white font-medium py-3 px-6  rounded-lg hover:bg-purple-800 transition duration-200">
           Get Started
         </button>
 
